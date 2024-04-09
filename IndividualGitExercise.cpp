@@ -34,6 +34,8 @@ int main () {
 	cout << "Type your last name: ";
 	getline (cin, lastName);
 
+	cout << "random text here: ";
+
 	firstNameLength == firstName.length();
 	lastNameLength == lastName.length();
 
