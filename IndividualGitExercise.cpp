@@ -34,6 +34,8 @@ int main () {
 	cout << "Type your last name: ";
 	getline (cin, lastName);
 
+	//This is a new comment
+
 	firstNameLength == firstName.length();
 	lastNameLength == lastName.length();
 
