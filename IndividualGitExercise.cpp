@@ -28,8 +28,6 @@ void letterShuffler(){
 	cout << firstName << " " << lastName << "\n";
 }
 
-//This is a comment
-
 int main () {
 	cout << "Type your first name: ";
 	getline (cin, firstName);
