@@ -37,8 +37,6 @@ int main () {
 	firstNameLength == firstName.length();
 	lastNameLength == lastName.length();
 
-	cout << "This is a string.";
-
 	cout << "Your name is " << firstName << " " << lastName <<"." <<  "\n";
 	cout << "Your name has " << firstName.length() + lastName.length() << " letters." << "\n";
 	
